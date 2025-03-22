@@ -1,0 +1,25 @@
+.form {
+  border: solid 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  width: 280px;
+}
+
+.newform {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.btm {
+  margin: auto;
+  border-radius: 3px;
+  padding: 5px 10px;
+}
+.error {
+  color: red;
+}

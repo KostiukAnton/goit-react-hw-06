@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  gap: 10px;
+}
+.item {
+  border: solid 1.5px;
+  padding: 10px;
+  border-radius: 5px;
+}
